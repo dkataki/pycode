@@ -5,3 +5,4 @@ print("Your height pls : (in meters )")
 height=float(input())
 BMI=weight/height ** 2
 print("YOU BMI is:",BMI)
+### End of the code - by Srishti Kataki##
